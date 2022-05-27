@@ -1,6 +1,6 @@
 <template>
-    <h1>{{msg}}</h1>
-    <h1>SideBar</h1>
+    <button><img src="../assets/img/button/open.png" class="w-8 px-1" ></button>
+
     <div>
         
     </div>
